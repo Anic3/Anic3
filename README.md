@@ -1,5 +1,12 @@
-## Toi la MocKimTeaa, yeu doi va yeu duoi 👋
+## Toi la MocKimTeaa, yeu doi va yeu duoi
 
+![stats](https://github-readme-stats.vercel.app/api?username=Anic3&show_icons=true&theme=tokyonight)
+
+![streak](https://streak-stats.demolab.com?user=Anic3&theme=tokyonight)
+
+![snake](https://raw.githubusercontent.com/Anic3/Anic3/output/github-snake-dark.svg)
+
+- Discord: dsc.gg/teaamc
 <!--
 **Anic3/Anic3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
